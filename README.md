@@ -1,6 +1,6 @@
 # Lock-X
 
-Lock X diğer insanların bilgisayarınıza dokunmaması için geliştirilen bir programdır. Açtığınızda Masaüstü gözükür ancak hiçbir şeyi açamaz yada değiştiremezsiniz. Şifre menüsünü açmak için ESC tuşuna bir kere tıklayın ve şifreyi girin. (Şifre : 123456) eğer şifreyi bilmiyorsanız F1 tuşuna basarak Lock X'i kapatabilirsiniz. Şifre şimdilik Değiştirilemez.
+Lock X diğer insanların bilgisayarınıza dokunmaması için geliştirilen bir programdır. Açtığınızda Masaüstü gözükür ancak hiçbir şeyi açamaz yada değiştiremezsiniz. Şifre menüsünü açmak için ESC tuşuna bir kere tıklayın ve şifreyi girin. (Şifre : 123456). Şifre 2.0 sürümüyle artık değiştirilebilir.
 
 Alt + F4 ile uygulama kapatılamaz
 
